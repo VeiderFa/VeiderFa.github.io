@@ -1,6 +1,6 @@
 # Site Settings
-title: "Fabian Veider's Research Portal"
-description: "Exploring Computational Social Sciences"
+title: "Fabian Veider"
+description: "Exploring Computational Social Sciences, Politics and Beatboxing"
 theme: jekyll-theme-cayman
 custom_css: style.css
 
@@ -8,14 +8,6 @@ custom_css: style.css
 collections:
   blog:
     output: true
-
-# Additional Settings (for social links and customization)
-author: Fabian Veider
-social_links:
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/fabian-veider-67a872241/?original_referer=&originalSubdomain=at
-  - name: Instagram
-    url: https://www.instagram.com/fabian_veider/
 
 # Markdown Settings
 markdown: kramdown
