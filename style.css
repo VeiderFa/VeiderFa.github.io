@@ -19,7 +19,7 @@ body {
 header {
     text-align: center;
     padding: 60px 30px;
-    background-image: url('.jpg'); /* Replace with the path to your image */
+    background-image: url('Topic.png'); /* Replace with the path to your image */
     background-size: cover;
     background-position: center;
     color: black;
