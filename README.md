@@ -16,11 +16,11 @@ Hello there, I'm Fabian Veider. I am currently doing my PhD in Computational Soc
 
 ## News <a name="news"></a>
 ---
-
+[Focus Workshop](https://colibri.uni-graz.at/de/colibri-focus-workshop-disorder-and-pattern-formation/) from November 22nd to November 23rd at the COLIBRI building, Leechgasse 42, Graz
 ## Publications <a name="publications"></a>
 ---
 
-**Max Mustermann**. 2024. How to cut an onion. Journal so an dso
+**Max Mustermann**. 2024. How to cut an onion. Journal so an so
 [Link to publication]()
 
 ---
