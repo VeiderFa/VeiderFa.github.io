@@ -2,6 +2,9 @@
 
 # Fabian Veider
 ---
+
+<img src = "Selfie_Fabian_Veider_Smaller.jpeg" width="300" height="300">
+
 ## About me <a name="about"></a>
 ---
 
