@@ -25,7 +25,7 @@ Hello there, I'm Fabian Veider. I am currently doing my PhD in Computational Soc
 
 Daniel Reisinger, Fabian Tschofenig, Raven Adam, Marie Lisa Kogler, Manfred Füllsack, **Fabian Veider** and Georg Jäger, 2024, 
 *Patterns of stability in complex contagions*, Journal of Computational Social Sciences 
-[Link to publication](https://link.springer.com/article/10.1007/s42001-024-00294-3)
+([Link to publication](https://link.springer.com/article/10.1007/s42001-024-00294-3))
 
 ---
 
