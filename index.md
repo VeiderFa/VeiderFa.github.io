@@ -8,7 +8,7 @@
 ## About me <a name="about"></a>
 ---
 
-Hello there, I'm Fabian Veider. I am currently doing my PhD in Computational Social Sciences as part of the System Science group at the [University of Graz](https://ess.uni-graz.at/en/about-the-department/management-and-employees/). <br><br> Furthermore, I am part of the interdisciplinary research group [COLIBRI](https://colibri.uni-graz.at/en/doctoral-consortium-complexity-of-life/phd-students/fabian-veider/).
+Hello there, I'm Fabian Veider. I am currently doing my PhD in Computational Social Sciences as part of the System Science group at the [University of Graz](https://ess.uni-graz.at/en/about-the-department/management-and-employees/). As part of the interdisciplinary research group [COLIBRI](https://colibri.uni-graz.at/en/doctoral-consortium-complexity-of-life/phd-students/fabian-veider/), I am trying to gain a qualitative and theoretical understanding of polarization and the role of influencers in social systems.<br><br>Also, I am very enthusiastic about beatboxing and taekwondo, where content will be published here in the future.
 
 [LinkedIn](https://www.linkedin.com/in/fabian-veider-67a872241/?original_referer=&originalSubdomain=at) | [Instagram](https://www.instagram.com/fabian_veider/)
 
@@ -23,8 +23,8 @@ Hello there, I'm Fabian Veider. I am currently doing my PhD in Computational Soc
 ## Publications <a name="publications"></a>
 ---
 
-**Max Mustermann**. 2024. How to cut an onion. Journal so an so
-[Link to publication]()
+Daniel Reisinger, Fabian Tschofenig, Raven Adam, Marie Lisa Kogler, Manfred Füllsack, **Fabian Veider** and Georg Jäger, 2024, Journal of Computational Social Sciences 
+[Link to publication](https://link.springer.com/article/10.1007/s42001-024-00294-3)
 
 ---
 
