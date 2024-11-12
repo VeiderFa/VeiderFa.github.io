@@ -16,7 +16,7 @@ Hello there, I'm Fabian Veider. I am currently doing my PhD in Computational Soc
 
 ## News <a name="news"></a>
 ---
-[Beatbox Workshop](https://colibri.uni-graz.at/de/colibri-focus-workshop-disorder-and-pattern-formation/) at the COLIBRI Retreat on November 11th, Spital am Pyhrn
+[Beatbox Workshop](Beatbox_Workshop_Retreat_Spital.pdf) at the COLIBRI Retreat on November 11th, Spital am Pyhrn
 
 
 [Focus Workshop](https://colibri.uni-graz.at/de/colibri-focus-workshop-disorder-and-pattern-formation/) from November 22nd to November 23rd at the COLIBRI building, Leechgasse 42, Graz
