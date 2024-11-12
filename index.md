@@ -10,7 +10,7 @@
 
 Hello there, I'm Fabian Veider. I am currently doing my PhD in Computational Social Sciences as part of the System Science group at the [University of Graz](https://ess.uni-graz.at/en/about-the-department/management-and-employees/). As part of the interdisciplinary research group [COLIBRI](https://colibri.uni-graz.at/en/doctoral-consortium-complexity-of-life/phd-students/fabian-veider/), I am trying to gain a qualitative and theoretical understanding of polarization and the role of influencers in social systems.<br><br>Also, I am very enthusiastic about beatboxing and taekwondo, where content will be published here in the future.
 
-<img src = "Title_Pic.png" width="300" height="300">
+<img src = "Title_Pic.png" width="838" height="405">
 
 
 [LinkedIn](https://www.linkedin.com/in/fabian-veider-67a872241/?original_referer=&originalSubdomain=at) | [Instagram](https://www.instagram.com/fabian_veider/)
