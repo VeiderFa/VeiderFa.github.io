@@ -40,12 +40,12 @@ Daniel Reisinger, Fabian Tschofenig, Raven Adam, Marie Lisa Kogler, Manfred Fül
 Texting in progress
 ## Contact <a name="contact"></a>
 
-Fabian Veider, MSc
-PhD Researcher in Computational Social Sciences
-Field of Excellence COLIBRI
-Environmental Systems Sciences
+Fabian Veider, MSc<br>
+PhD Researcher in Computational Social Sciences<br>
+Field of Excellence COLIBRI<br>
+Environmental Systems Sciences<br>
 University of Graz
-
-Merangasse 18, 8010 Graz, Austria
-+43 (0)316 380 - 1521
+<br><br>
+Merangasse 18, 8010 Graz, Austria<br>
++43 (0)316 380 - 1521<br>
 E-mail: fabian.veider@uni-graz.at
