@@ -32,11 +32,9 @@ Daniel Reisinger, Fabian Tschofenig, Raven Adam, Marie Lisa Kogler, Manfred Fül
 ## Blog <a name="blog"></a>
 ---
 
-### Blogpost about Oranges
+### [Who should be the target audience for activism?](./blog/activism_target.md)
 "Written on 12.11.2024" <br>
 Oranges are well known for their orange color. In this blogpost we talk about the risks of eating to many of them
-
-[Link to full blogpost](./blog/oranges.md)
 
 ## Contact <a name="contact"></a>
 
