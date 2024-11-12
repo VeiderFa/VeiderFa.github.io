@@ -7,11 +7,6 @@ body {
     background-color: #f9f9f9;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: #005b96;
-    margin-top: 1.5em;
-}
-
 /* Container for Padding */
 .container {
     width: 80%;
@@ -20,15 +15,26 @@ h1, h2, h3, h4, h5, h6 {
     padding: 20px;
 }
 
-/* Header Styling */
+/* Header Styling with Background Image */
 header {
     text-align: center;
-    padding: 30px;
-    background-color: #005b96;
-    color: white;
+    padding: 60px 30px;
+    background-image: url('.jpg'); /* Replace with the path to your image */
+    background-size: cover;
+    background-position: center;
+    color: black;
+}
+
+header h1, header p {
+    color: black; /* Set title and subtitle to black */
+    background: rgba(255, 255, 255, 0.8); /* Optional: add a white background with slight transparency for readability */
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
 }
 
 header h1 {
+    font-size: 2.5em;
     margin: 0;
 }
 
@@ -47,7 +53,8 @@ header p {
 }
 
 .section h2 {
-    border-bottom: 2px solid #005b96;
+    color: black; /* Set section headings to black */
+    border-bottom: 2px solid #333;
     padding-bottom: 10px;
     margin-bottom: 15px;
 }
@@ -88,7 +95,7 @@ img {
 
 .card h3 {
     margin-top: 0;
-    color: #333;
+    color: black; /* Set card headings to black */
 }
 
 .card p {
@@ -97,31 +104,3 @@ img {
 
 /* Footer Styling */
 footer {
-    background-color: #005b96;
-    color: white;
-    text-align: center;
-    padding: 15px;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
-
-footer p {
-    margin: 0;
-    font-size: 0.9em;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .container {
-        width: 90%;
-    }
-
-    header h1 {
-        font-size: 1.8em;
-    }
-
-    header p {
-        font-size: 1em;
-    }
-}
