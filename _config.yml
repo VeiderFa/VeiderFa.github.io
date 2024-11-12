@@ -1,6 +1,7 @@
 # theme: jekyll-theme-merlot
 theme: jekyll-theme-cayman
-
+title: "Fabian Veider's Research Portal"
+description: "Exploring Computational Social Sciences"
 collections:
   blog:
     output: true
