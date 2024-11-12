@@ -1,4 +1,4 @@
-[About Me]() | [News]() | [Publications]() | [Blog]() | [Contact]()
+[About Me](#about) | [News](#news) | [Publications](#publications) | [Blog](#blog) | [Contact](#contact)
 
 # Fabian Veider
 ---
@@ -11,17 +11,19 @@ Hello there, I'm Fabian Veider. I am currently doing my PhD in Computational Soc
 
 ---
 
-## News
+## News <a name="news></a>
 ---
 
-## Publications
+## Publications <a name="publications></a>
 ---
 
 Publication 1
 
 ---
 
-## Blog
+## Blog <a name="blog></a>
 ---
 
 Blogpost 1
+
+## Contact <a name="contact></a>
