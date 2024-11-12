@@ -2,7 +2,7 @@
 
 # Fabian Veider
 ---
-## About me <a name="about></a>
+## About me <a name="about"></a>
 ---
 
 Hello there, I'm Fabian Veider. I am currently doing my PhD in Computational Social Sciences as part of System Science group at the [University of Graz](https://ess.uni-graz.at/en/about-the-department/management-and-employees/). <br><br> Furthermore, I am part of the interdisciplinary research group [COLIBRI](https://colibri.uni-graz.at/en/doctoral-consortium-complexity-of-life/phd-students/fabian-veider/).
@@ -11,19 +11,19 @@ Hello there, I'm Fabian Veider. I am currently doing my PhD in Computational Soc
 
 ---
 
-## News <a name="news></a>
+## News <a name="news"></a>
 ---
 
-## Publications <a name="publications></a>
+## Publications <a name="publications"></a>
 ---
 
 Publication 1
 
 ---
 
-## Blog <a name="blog></a>
+## Blog <a name="blog"></a>
 ---
 
 Blogpost 1
 
-## Contact <a name="contact></a>
+## Contact <a name="contact"></a>
