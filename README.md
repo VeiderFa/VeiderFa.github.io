@@ -20,7 +20,8 @@ Hello there, I'm Fabian Veider. I am currently doing my PhD in Computational Soc
 ## Publications <a name="publications"></a>
 ---
 
-Publication 1
+**Max Mustermann**. 2024. How to cut an onion. Journal so an dso
+[Link to publication]()
 
 ---
 
