@@ -1,5 +1,5 @@
 [Back to Homepage](../index.md)
 
-# Who should be the target audience for activism?
+# Blog 1
 
 Texting in progress
