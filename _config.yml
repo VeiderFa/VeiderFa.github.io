@@ -1,8 +1,13 @@
 # Site Settings
-title: "Understanding social complexity"
+title: "Understanding Social Complexity"
 description: "Exploring Computational Social Sciences and Politics. And Beatboxing"
-theme: jekyll-theme-cayman
+theme: minima
 custom_css: style.css
+
+# Appearance
+minima:
+  skins:
+    - black_and_white
 
 # Collections Settings
 collections:
