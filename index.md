@@ -35,7 +35,7 @@ Daniel Reisinger, Fabian Tschofenig, Raven Adam, Marie Lisa Kogler, Manfred Fül
 ## Blog <a name="blog"></a>
 ---
 
-### [Who should be the target audience for activism?](./blog/activism_target.md)
+### [Entry 1](./blog/activism_target.md)
 "Written on 12.11.2024" <br>
 Texting in progress
 ## Contact <a name="contact"></a>
