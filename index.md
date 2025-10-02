@@ -14,7 +14,7 @@ I am currently pursuing a PhD in Computational Social Sciences as part of the Sy
 Beyond academia, I have a passion for **japanese**, **beatboxing** and **taekwondo**, and I plan to share related content here soon.
 
 <div style="text-align:center;">
-    <img src="Title_Pic.png" alt="Title Image" width="838" height="405" style="border: 2px solid black;">
+    <img src="icon_01.pdf" alt="Title Image" width="838" height="405" style="border: 2px solid black;">
 </div>
 
 <div style="text-align:center; margin-top: 20px;">
