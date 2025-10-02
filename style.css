@@ -74,3 +74,39 @@ footer {
 footer a {
     margin: 0 10px;
 }
+
+/* Timeline News Section */
+.timeline {
+    max-width: 700px;
+    margin: 20px auto;
+    padding-left: 20px;
+    border-left: 3px solid black;
+}
+
+.news-item {
+    position: relative;
+    margin: 20px 0;
+    padding-left: 20px;
+}
+
+.news-item::before {
+    content: "";
+    position: absolute;
+    left: -10px;
+    top: 8px;
+    width: 14px;
+    height: 14px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.news-date {
+    font-weight: bold;
+    color: #444;
+    margin-bottom: 4px;
+}
+
+.news-content {
+    margin-left: 5px;
+}
+
