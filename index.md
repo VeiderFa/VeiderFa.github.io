@@ -3,19 +3,15 @@
 # Building Bridges – Fabian Veider
 ---
 
-<img src="Selfie_Fabian_Veider_Smaller.jpeg" alt="Fabian Veider" width="300" height="300" style="border-radius:50%; border: 2px solid black; display:block; margin: 0 auto;">
+<img src="Selfie_Fabian_Veider_Smaller.jpeg" alt="Fabian Veider" width="250" height="250" style="border-radius:50%; border: 2px solid black; display:block; margin: 0 auto;">
 
 ## About Me <a name="about"></a>
 ---
 
-Hello there, I'm **Fabian Veider**.  
-I am currently pursuing a PhD in Computational Social Sciences as part of the System Science group at the [University of Graz](https://ess.uni-graz.at/en/about-the-department/management-and-employees/). My research within the interdisciplinary [COLIBRI](https://colibri.uni-graz.at/en/doctoral-consortium-complexity-of-life/phd-students/fabian-veider/) group focuses on a theoretical understandinging **polarization**, the role of **influencers** and drivers for **social change**.
+Hey there, I'm **Fabian Veider**.  
+I am currently pursuing a PhD in System Sciences at the [University of Graz](https://ess.uni-graz.at/en/about-the-department/management-and-employees/). My research within the interdisciplinary [COLIBRI](https://colibri.uni-graz.at/en/doctoral-consortium-complexity-of-life/phd-students/fabian-veider/) group focuses on a theoretical understanding of **polarization** in (digital) societies, the role of **influencers** and drivers for **social change**.
 
 Beyond academia, I have a passion for **japanese**, **beatboxing** and **taekwondo**, and I plan to share related content here soon.
-
-<div style="text-align:center;">
-    <img src="icon_01.svg" alt="Title Image" width="838" height="405" style="border: 2px solid black;">
-</div>
 
 <div style="text-align:center; margin-top: 20px;">
     <a href="https://www.linkedin.com/in/fabian-veider-67a872241/" style="text-decoration:none; color:black; font-weight:bold; margin-right:10px;">LinkedIn</a> | 
@@ -40,8 +36,12 @@ These are mixtures of research and opinion, so be aware. The idea is to lay out 
 allowing everyone to get a better insight into the topic and gain some understanding for people outside of their bubble.
 
 - Visual explorations of **opinion dynamics models**  
-- Notes on **ideological polarization**  
-- Diagrams of **information flow & media manipulation**  
+- Notes on different types of **polarization**  
+- Diagrams of **information flow & media impact**
+- 
+<div style="text-align:center;">
+    <img src="icon_01.svg" alt="Title Image" width="838" height="405" style="border: 2px solid black;">
+</div>
 
 *(Check back soon for figures and animations.)*
 
@@ -65,7 +65,7 @@ allowing everyone to get a better insight into the topic and gain some understan
 - **[Ideological Polarization](./blog/ideological-polarization.md)**  
   *Coming soon*  
 
-- **[Media Manipulation](./blog/media-manipulation.md)**  
+- **[Media Impact](./blog/media-manipulation.md)**  
   *Coming soon*  
 
 ---
