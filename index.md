@@ -41,6 +41,10 @@ Here I will share selected research outputs, figures, and notes that support the
 These are mixtures of research and opinion, so be aware. The idea is to lay out multiple perspectives on these topics,
 allowing everyone to get a better insight into the topic and gain some understanding for people outside of their bubble.
 
+<div style="text-align:center;">
+    <img src="bridges_icon.svg" alt="Title Image" width="838" height="405" style="border: 2px solid black;">
+</div>
+
 - Visual explorations of **opinion dynamics models**  
 - Notes on different types of **polarization**  
 - Diagrams of **information flow & media impact**
