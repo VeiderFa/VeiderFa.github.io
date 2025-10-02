@@ -23,23 +23,14 @@ Beyond academia, I have a passion for **japanese**, **beatboxing** and **taekwon
 ## News <a name="news"></a>
 ---
 
-<div class="timeline">
-
-<div class="news-item">
-  <div class="news-date">Oct 2025</div>
-  <div class="news-content">
-    📝 <strong>New Blog Post soon:</strong> <em>Media Manipulation</em>
-  </div>
-</div>
-
-<div class="news-item">
-  <div class="news-date">Dec 2025</div>
-  <div class="news-content">
-    🎤 <strong>Talk Accepted:</strong> Winter School on Opinion Dynamics
-  </div>
-</div>
-
-</div>
+<ul class="news-list">
+  <li>
+    <strong>New Blog Post soon:</strong> <em>Media Manipulation</em> <span class="date">(Oct 2025)</span>
+  </li>
+  <li>
+    <strong>Talk Accepted:</strong> Winter School on Opinion Dynamics <span class="date">(Dec 2025)</span>
+  </li>
+</ul>
 
 ---
 
@@ -77,25 +68,33 @@ allowing everyone to get a better insight into the topic and gain some understan
 <div class="blog-list">
 
 <div class="blog-card">
-  <h3><a href="./blog/social-movement-theory.md">Social Movement Theory</a></h3>
-  <p><em>Exploring how groups mobilize, sustain action, and create change in society.</em></p>
-  <span class="date">Coming soon</span>
+  <div class="blog-text">
+    <h3><a href="./blog/social-movement-theory.md">Social Movement Theory</a></h3>
+    <p><em>Exploring how groups mobilize, sustain action, and create change in society.</em></p>
+    <span class="date">Coming soon</span>
+  </div>
+  <img src="./assets/img/social-movement.png" alt="Social Movement Figure" class="blog-thumb">
 </div>
 
 <div class="blog-card">
-  <h3><a href="./blog/ideological-polarization.md">Ideological Polarization</a></h3>
-  <p><em>Why societies drift apart, how echo chambers form, and what research says about bridging divides.</em></p>
-  <span class="date">Coming soon</span>
+  <div class="blog-text">
+    <h3><a href="./blog/ideological-polarization.md">Ideological Polarization</a></h3>
+    <p><em>Why societies drift apart, how echo chambers form, and what research says about bridging divides.</em></p>
+    <span class="date">Coming soon</span>
+  </div>
+  <img src="./assets/img/polarization.png" alt="Polarization Figure" class="blog-thumb">
 </div>
 
 <div class="blog-card">
-  <h3><a href="./blog/media-manipulation.md">Media Impact & Manipulation</a></h3>
-  <p><em>On algorithms, influencers, and the subtle nudges that shape what we see and believe.</em></p>
-  <span class="date">Coming soon</span>
+  <div class="blog-text">
+    <h3><a href="./blog/media-manipulation.md">Media Impact & Manipulation</a></h3>
+    <p><em>On algorithms, influencers, and the subtle nudges that shape what we see and believe.</em></p>
+    <span class="date">Coming soon</span>
+  </div>
+  <img src="./assets/img/media.png" alt="Media Manipulation Figure" class="blog-thumb">
 </div>
 
 </div>
-
 
 ---
 
@@ -103,9 +102,9 @@ allowing everyone to get a better insight into the topic and gain some understan
 ---
 
 **Fabian Veider, MSc**  
-PhD Researcher in Computational Social Sciences  
+PhD Researcher in System Sciences
 Field of Excellence COLIBRI  
-Environmental Systems Sciences  
+Institute of Environmental Systems Sciences  
 University of Graz  
 
 **Address:**  
