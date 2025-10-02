@@ -74,14 +74,28 @@ allowing everyone to get a better insight into the topic and gain some understan
 ## Blog <a name="blog"></a>
 ---
 
-- **[Social Movement Theory](./blog/social-movement-theory.md)**  
-  *Coming soon*  
+<div class="blog-list">
 
-- **[Ideological Polarization](./blog/ideological-polarization.md)**  
-  *Coming soon*  
+<div class="blog-card">
+  <h3><a href="./blog/social-movement-theory.md">Social Movement Theory</a></h3>
+  <p><em>Exploring how groups mobilize, sustain action, and create change in society.</em></p>
+  <span class="date">Coming soon</span>
+</div>
 
-- **[Media Impact](./blog/media-manipulation.md)**  
-  *Coming soon*  
+<div class="blog-card">
+  <h3><a href="./blog/ideological-polarization.md">Ideological Polarization</a></h3>
+  <p><em>Why societies drift apart, how echo chambers form, and what research says about bridging divides.</em></p>
+  <span class="date">Coming soon</span>
+</div>
+
+<div class="blog-card">
+  <h3><a href="./blog/media-manipulation.md">Media Impact & Manipulation</a></h3>
+  <p><em>On algorithms, influencers, and the subtle nudges that shape what we see and believe.</em></p>
+  <span class="date">Coming soon</span>
+</div>
+
+</div>
+
 
 ---
 
