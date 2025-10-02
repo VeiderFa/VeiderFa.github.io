@@ -23,8 +23,23 @@ Beyond academia, I have a passion for **japanese**, **beatboxing** and **taekwon
 ## News <a name="news"></a>
 ---
 
-- 📝 **New Blog Post soon**: *Media Manipulation* (Oct 2025)  
-- 🎤 **Talk Accepted**: Winter School on Opinion Dynamics (Dec 2025)  
+<div class="timeline">
+
+<div class="news-item">
+  <div class="news-date">Oct 2025</div>
+  <div class="news-content">
+    📝 <strong>New Blog Post soon:</strong> <em>Media Manipulation</em>
+  </div>
+</div>
+
+<div class="news-item">
+  <div class="news-date">Dec 2025</div>
+  <div class="news-content">
+    🎤 <strong>Talk Accepted:</strong> Winter School on Opinion Dynamics
+  </div>
+</div>
+
+</div>
 
 ---
 
@@ -38,7 +53,7 @@ allowing everyone to get a better insight into the topic and gain some understan
 - Visual explorations of **opinion dynamics models**  
 - Notes on different types of **polarization**  
 - Diagrams of **information flow & media impact**
-- 
+  
 <div style="text-align:center;">
     <img src="icon_01.svg" alt="Title Image" width="838" height="405" style="border: 2px solid black;">
 </div>
