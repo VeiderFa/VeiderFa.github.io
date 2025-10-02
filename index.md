@@ -3,7 +3,7 @@
 # Building Bridges – Fabian Veider
 ---
 
-<img src="Selfie_Fabian_Veider_Smaller.jpeg" alt="Fabian Veider" width="250" height="250" style="border-radius:50%; border: 2px solid black; display:block; margin: 0 auto;">
+<img src="Selfie_Fabian_Veider_Smaller.jpeg" alt="Fabian Veider" width="200" height="200" style="border-radius:50%; border: 2px solid black; display:block; margin: 0 auto;">
 
 ## About Me <a name="about"></a>
 ---
