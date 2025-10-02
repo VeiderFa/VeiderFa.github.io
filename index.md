@@ -11,6 +11,10 @@
 Hey there, I'm **Fabian Veider**.  
 I am currently pursuing a PhD in System Sciences at the [University of Graz](https://ess.uni-graz.at/en/about-the-department/management-and-employees/). My research within the interdisciplinary [COLIBRI](https://colibri.uni-graz.at/en/doctoral-consortium-complexity-of-life/phd-students/fabian-veider/) group focuses on a theoretical understanding of **polarization** in (digital) societies, the role of **influencers** and drivers for **social change**.
 
+<div style="text-align:center;">
+    <img src="icon_01.svg" alt="Title Image" width="838" height="405" style="border: 2px solid black;">
+</div>
+
 Beyond academia, I have a passion for **japanese**, **beatboxing** and **taekwondo**, and I plan to share related content here soon.
 
 <div style="text-align:center; margin-top: 20px;">
@@ -48,10 +52,7 @@ allowing everyone to get a better insight into the topic and gain some understan
 - Visual explorations of **opinion dynamics models**  
 - Notes on different types of **polarization**  
 - Diagrams of **information flow & media impact**
-  
-<div style="text-align:center;">
-    <img src="icon_01.svg" alt="Title Image" width="838" height="405" style="border: 2px solid black;">
-</div>
+
 
 *(Check back soon for figures and animations.)*
 
