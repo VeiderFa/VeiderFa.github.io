@@ -75,54 +75,46 @@ footer a {
     margin: 0 10px;
 }
 
-/* Timeline News Section */
-.timeline {
+/* News Section */
+.news-list {
+    list-style-type: disc;
+    padding-left: 20px;
     max-width: 700px;
-    margin: 20px auto;
-    padding-left: 20px;
-    border-left: 3px solid black;
+    margin: 0 auto;
 }
 
-.news-item {
-    position: relative;
-    margin: 20px 0;
-    padding-left: 20px;
+.news-list li {
+    margin: 10px 0;
 }
 
-.news-item::before {
-    content: "";
-    position: absolute;
-    left: -10px;
-    top: 8px;
-    width: 14px;
-    height: 14px;
-    background-color: black;
-    border-radius: 50%;
+.news-list .date {
+    color: #666;
+    font-size: 0.9rem;
+    margin-left: 6px;
 }
 
-.news-date {
-    font-weight: bold;
-    color: #444;
-    margin-bottom: 4px;
-}
-
-.news-content {
-    margin-left: 5px;
-}
-/* Blog Cards */
+/* Blog Cards with Figures */
 .blog-list {
     display: grid;
     grid-template-columns: 1fr;
     gap: 20px;
-    max-width: 800px;
+    max-width: 850px;
     margin: 20px auto;
 }
 
 .blog-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
     border: 2px solid black;
     padding: 15px;
     border-radius: 8px;
     background-color: #f9f9f9;
+}
+
+.blog-text {
+    flex: 1;
+    margin-right: 15px;
 }
 
 .blog-card h3 {
@@ -149,4 +141,13 @@ footer a {
     font-size: 0.9rem;
     color: #666;
 }
+
+/* Small blog images */
+.blog-thumb {
+    width: 120px;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+}
+
 
